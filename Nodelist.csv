@@ -1,0 +1,39 @@
+id,name,party,sector,type,
+UvdL,Ursula von der Leyen,CDU,Politik,1,500
+LK,Lars Klingbeil,SPD,Politik,1,"500,503,506"
+CL,Christian Lindner,FDP,Pollitik,1,501
+NR,Norbert Röttgen,CDU,Politik,1,500
+SW,Sahra Wagenknecht,Linke,Politik,1,500
+CS,Constanze Stelzenmüller,NA,Journalismus,1,500
+KS,Karl Schlögel,NA,Wissenschaft,1,501
+LM,Ljudmyla Melnyk,NA,Wissenschaft,1,501
+KD,Kristina Dunz,NA,Journalismus,1,501
+EL,Egils Levits,NA,Politik,1,501
+AB,Annalena Baerbock,Green,Politik,1,502
+FT,Frans Timmermans,NA,Politik,1,502
+AM,Andrij Melnyk,NA,Politik,1,502
+AGL,Alexander Graf Lambsdorff,FDP,Politik,1,"502,504"
+ER,Egon Ramms,NA,Millitary,1,502
+RH,Robert Habeck,Green,Politik,1,503
+CM,Claudia Major,NA,Wissenschaft,1,503
+KP,Katja Petrowskaja,NA,Journalismus,1,503
+RK,Roderich Kiesewetter,CDU,Politik,1,503
+CLB,Christine Lambrecht,SPD,Politik,1,504
+SB,Stefanie Babst,NA,Wissenschaft,1,504
+CH,Christoph Heusgen,NA,Millitary,1,504
+MW,Marina Weisband,NA,Journalismus,1,504
+MS,Markus Söder,CDU,Politik,1,506
+VG,Veronika Grimm,NA,Wissenschaft,1,506
+MB,Marieluise Beck,Green,Politik,1,506
+RA,Robin Alexander,NA,Journalismus,1,506
+CDU,Christlich Demokratische Union,NA,Politik,2,
+SPD,Sozialdemokratische Partei Deutschlands,NA,Politik,2,
+FDP,Frei Demokratische Partei,NA,Politik,2,
+Linke,Die Linke,NA,Politik,2,
+Green,Bündnis 90/Die Grünen,NA,Politik,2,
+F500,Folge 500,NA,NA,NA,
+F501,Folge 501,NA,NA,NA,
+F502,Folge 502,NA,NA,NA,
+F503,Folge 503,NA,NA,NA,
+F504,Folge 504,NA,NA,NA,
+F506,Folge 506,NA,NA,NA,
